@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is kobekobe
+=======
+
+this is kobe
+>>>>>>> 435530aade1336e1daae9a8f393ee99d45fb1839
